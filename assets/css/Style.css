@@ -1,0 +1,62 @@
+ul{
+
+    margin: 0px 50px 50px 0px;
+    padding: 0px;
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+li{
+    float: left;
+
+}
+
+li  a{
+    padding: 20px;
+    color: #000000;
+    font-family: "Tibetan Machine Uni";
+    font-size: 20px;
+    text-decoration: none;
+    display: block;
+
+}
+li a:hover{
+    color: #ff0202;
+}
+
+.fruits{
+    border: 2px solid red;
+   background-color: darkgoldenrod;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+
+.FRUITS{
+    border: 2px solid red;
+   background-color: darkgoldenrod;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+.toyota{
+    border: 2px solid red;
+   background-color: darkgoldenrod;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+#schools{
+    border: 2px solid red;
+  background-color: darkgoldenrod;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}

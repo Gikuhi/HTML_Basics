@@ -1,0 +1,14 @@
+table, th ,td{
+    border: 3px solid brown;
+    border-collapse: collapse;
+}
+th, td{
+    background-color: coral;
+}
+/* styling the background of a body with a photo*/
+
+body{
+    background-image: url("pink1.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
